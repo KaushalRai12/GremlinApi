@@ -1,4 +1,5 @@
 # GremlinApi
+Complete code for the .NET Core 7 Web API connecting to Azure Cosmos DB using the Gremlin API. The code includes the Program.cs, GraphService.cs, IGraphService.cs, PersonController.cs, PlaceController.cs, Person.cs, and Place.cs files.
 Create a database in Gremlin the database name can be matched as required 
 Create a database id in this case the database id is Schoolify
 Create a graph in this case the graph id is SchoolifyGraph
